@@ -23,4 +23,3 @@ pipeline {
         }
     }
 }
-#push_test
