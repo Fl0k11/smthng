@@ -1,0 +1,4 @@
+[test]
+ubu14-04test    ansible_host=192.168.202.39
+[local]
+WS001		        ansible_host=192.168.85.22
