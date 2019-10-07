@@ -1,0 +1,6 @@
+- name: Debug Github
+  hosts: all
+  become: yes
+tasks:
+  - name: Debug
+    shell: echo "Test from github"
